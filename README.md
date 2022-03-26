@@ -1,5 +1,4 @@
 # DS Developer Advocate Technical Assessment Questions
-![alt text](https://cdn-images-1.medium.com/max/1200/1*Qi2ta02wgA4-otNFDaFrRw.png)
 
 For this assessment, there are four questions below that cover the following topics:
 1. Data Structures
